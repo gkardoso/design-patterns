@@ -1,2 +1,2 @@
 # design-patterns
-Aplicação de alguns design patetas em python a critério de estudo.
+Aplicação de alguns design patterns em python a critério de estudo.
